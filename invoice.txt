@@ -1,0 +1,18 @@
+					|===============================================================|
+					|                                                               |
+					|                      Invoice Pembayaran                       |
+					|                  -------------------------                    |
+					|                                                               |
+					| Kode Invoice     : MG5876                                     |
+					| Tanggal          : 20/1/2020                                  |
+					| Nama Customer    : Ridwan                                     |
+					| NoHP Customer    : 0821 1702 9339                             |
+					| =================================                             |
+					| Menggunakan Jasa Design                : Rp.           50000  |
+					| Biaya Print                            : Rp.           52000  |
+					|                                        ---------------------+ |
+					| Total Pembayaran                       : Rp.          102000  |
+					|                                                               |
+					|              Silahkan lakukan pembayaran di kasir             |
+					|                                                               |
+					|===============================================================|
